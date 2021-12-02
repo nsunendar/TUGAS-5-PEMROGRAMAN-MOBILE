@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tugas-5 PrgMbl-NendiSunendar</string>
+    <string name="WarnaInput">Name</string>
+    <string name="button">Rubah</string>
+    <string name="rubahText">Rubah</string>
+    <string name="pilihan_warnaText">Pilihan Warna</string>
+</resources>
